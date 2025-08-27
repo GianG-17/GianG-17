@@ -20,6 +20,7 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 ### 🖥️ Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
@@ -65,6 +66,7 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 ### 🖥️ Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
